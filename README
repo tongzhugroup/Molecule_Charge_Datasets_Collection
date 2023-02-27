@@ -1,0 +1,4 @@
+the `input_data` file is prepared for RuNNer by Jorg Behler.from left to right.  
+"atom x y z element hishfeld_charge atom_energy force_x force_y force_z "
+and Energy unit is default unit is Hartree, and Coordinate unit is Bohr, Force is Hartree/Bohr.
+

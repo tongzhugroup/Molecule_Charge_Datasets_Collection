@@ -3,9 +3,9 @@ This repository contains the datasets used in the development of nerual network 
 ## Carbon Chain
 The data was generated from 5000 MD steps at a temperature of 300K with a timestep of 0.5fs of C10H2 and C10H3 respectively. Trajectory obtained from local geometry relaxations were added as well. (10019 structures in total) 
 ## [small organic molecule](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00821)
- - rotamer_data:  sets of rotamers developed in this work, focusing on ionic systems 
- - [hutchison_conformers](https://github.com/ghutchis/conformer-benchmark):  A subset of the data reported in Folmsbee & Hutchison, IJQC 121 (2020)
- - ionic_conformers:  conformer test set constructed from ionic molecules from ZINC
+ - rotamer data:  sets of rotamers developed in this work, focusing on ionic systems 
+ - [hutchison conformers](https://github.com/ghutchis/conformer-benchmark):  A subset of the data reported in Folmsbee & Hutchison, IJQC 121 (2020)
+ - ionic conformers:  conformer test set constructed from ionic molecules from ZINC
  - [tautobase](https://github.com/WahlOya/Tautobase):  Tautomer pairs extracted from the tautobase Wahl & Sander J. Chem. Inf. Model 60 (2020)
 
 ## [QM7-X](https://zenodo.org/record/4288677)
